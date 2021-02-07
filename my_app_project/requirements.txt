@@ -1,0 +1,3 @@
+# school_info/my_app_project/requirements.txt
+
+-e ../../school_info

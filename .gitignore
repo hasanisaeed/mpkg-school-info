@@ -1,7 +1,6 @@
 *.sqlite3
 __pycache__/
-.idea
-school_info.egg-info/
+.idea 
 dist/
 build/
-mp_school_info.egg-info/
+mpkg_school_info.egg-info/

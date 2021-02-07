@@ -1,0 +1,61 @@
+[
+  {
+    "model": "my_app.school",
+    "pk": 1,
+    "fields": {
+      "name": "پیش دانشگاهی دکتر شکوهی"
+    }
+  },
+  {
+    "model": "my_app.school",
+    "pk": 2,
+    "fields": {
+      "name": "دبیرستان علامه امینی"
+    }
+  },
+  {
+    "model": "my_app.student",
+    "pk": 1,
+    "fields": {
+      "name": "علیرضا محمدیان",
+      "average": "19.36",
+      "school": 1
+    }
+  },
+  {
+    "model": "my_app.student",
+    "pk": 2,
+    "fields": {
+      "name": "محمود اکبرزاده",
+      "average": "19.13",
+      "school": 1
+    }
+  },
+  {
+    "model": "my_app.student",
+    "pk": 3,
+    "fields": {
+      "name": "مرتضی درخشانی راد",
+      "average": "18.87",
+      "school": 2
+    }
+  },
+  {
+    "model": "my_app.student",
+    "pk": 4,
+    "fields": {
+      "name": "حسن حسینی",
+      "average": "19.00",
+      "school": 2
+    }
+  },
+  {
+    "model": "my_app.student",
+    "pk": 5,
+    "fields": {
+      "name": "شاهین بزرگی",
+      "average": "18.27",
+      "school": 2
+    }
+  }
+]
