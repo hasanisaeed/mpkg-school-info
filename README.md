@@ -16,3 +16,7 @@ License
 MIT
 
 **از کد نوشتن لذت ببرین❤️**
+
+
+-----
+[این یک آموزش هست که که تو سایت ویرگول قراردادم.](https://virgool.io/@borzadaran/pip-install-t4kkdevybmep)
