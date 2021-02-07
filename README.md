@@ -8,7 +8,7 @@
 مثلا چجوری برنامه نویس ها میتونن این پکیج رو توی برنامه هاشون نصب کنن.
 
 ```sh
- pip install mp-school-info
+ pip install mpkg-school-info
 ```
 
 License
